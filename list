@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS
-https://1061-abc.dtvott.com/dash_live_1061/manifest.mpd
+https://1061-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,9 +22,6 @@ https://1061-abc.dtvott.com/dash_live_1061/manifest.mpd
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS 2
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -34,3 +31,13 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS +
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp" group-title="DEPORTES", ESPN2 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"kz3o6RVTWuGMJVilp2MYyQ" group-title="Lista 27 solo OTT", "k":"4fwe7U6ug-DcGzcFy2LKZA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
