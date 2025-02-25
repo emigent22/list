@@ -1029,7 +1029,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plu
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOFAMILYHD/EXPORTACION_WEB/SS/HBOFAMILYHD_t-290x163.png" tvg-group="PACK PREMIUM (HBO - UNIVERSAL+)", HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=535473132f68082160b489482ca35f8e&key=e90fd91fcd3fc809bed2b1c0d37f7297
-https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOSIGNATUREHD/EXPORTACION_WEB/SS/HBOSIGNATUREHD_t-290x163.png" tvg-group="PACK PREMIUM (HBO - UNIVERSAL+)", HBO SIGNATURE	
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
