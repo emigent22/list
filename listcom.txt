@@ -1039,7 +1039,7 @@ https://chromecast.cvattv.com.ar/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Sig
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOMUNDIHD/EXPORTACION_WEB/SS/HBOMUNDIHD_t-290x163.png" tvg-group="PACK PREMIUM (HBO - UNIVERSAL+)", HBO MUNDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7821b2662148fe333d5191acbb8a5c1f&key=ae43f3e2545237ebda58b13813b5d328
-https://edge-vod04-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
+https://edge-vod04-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOPOPHD/EXPORTACION_WEB/SS/HBOPOPHD_t-290x163.png" tvg-group="PACK PREMIUM (HBO - UNIVERSAL+)", HBO POP
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
@@ -1049,7 +1049,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOXTREMEHD/EXPORTACION_WEB/SS/HBOXTREMEHD_t-290x163.png" tvg-group="PACK PREMIUM (HBO - UNIVERSAL+)", HBO XTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58	
-https://edge-live01-cen.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
+https://edge-live01-cen.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOXTREMEHD/EXPORTACION_WEB/SS/HBOXTREMEHD_t-290x163.png" tvg-group="PACK PREMIUM (HBO - UNIVERSAL+)", HBO XTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
