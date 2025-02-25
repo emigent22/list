@@ -95,11 +95,6 @@ https://edge-live13-sl.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_Live_dash_enc/F
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347	
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_wl/Teve_Ciudad.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg" tvg-group="DEPORTE", ESPN PREMIUM	
-#KODIPROP:inputstream.adaptive.license_type=clearkey	
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257	
-https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/300/CH_LOGO/350/500/0/0/88913423072710.png" tvg-group="0", National Geographic	
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16	
