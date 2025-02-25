@@ -774,7 +774,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/Chacra_TV/SA_Live_dash_enc_2A/Ch
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/350/500/0/0/72827036071623.png" tvg-group="CULTURA", Animal Planet	
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd	
-http://edge-live14-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/350/500/0/0/68362124071499.png" tvg-group="0", History	
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
