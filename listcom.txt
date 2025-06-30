@@ -1,8 +1,10 @@
 #EXTM3U list-name="CANALES"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg" tvg-group="DEPORTE", ESPN PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey	
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08fe89bb41ac5f4825bbaa358b3458c7&key=c1ea85d94fb80f64d53747529e488a75	
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 http://megaezztv.webcindario.com/app/red.php?channel=TNTSports
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png" tvg-group="DEPORTE", ESPN
