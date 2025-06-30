@@ -2,10 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg" tvg-group="DEPORTE", ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-http://megaezztv.webcindario.com/app/red.php?channel=TNTSports
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png" tvg-group="DEPORTE", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
