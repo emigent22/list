@@ -5,6 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=561a21ad50f806b77d328dedbe59f93e&key=edf3e70cc9de81a73e2a00fe9c0611a8
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd
 
+EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" group-title="", USA México OP2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"39773b0d7b389430776142a2fa613ad9":"bce74121a4884ec7d2ed9dd96442a775"}
+https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png" tvg-group="DEPORTE", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
